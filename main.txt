@@ -1,4 +1,4 @@
 Title: git for everyone
-hello world
+hello git
 
 and then live
